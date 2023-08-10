@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TRILOEX/static/css/main.ed58d7ee.css",
+    "main.js": "/TRILOEX/static/js/main.5ea1d327.js",
+    "index.html": "/TRILOEX/index.html",
+    "main.ed58d7ee.css.map": "/TRILOEX/static/css/main.ed58d7ee.css.map",
+    "main.5ea1d327.js.map": "/TRILOEX/static/js/main.5ea1d327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed58d7ee.css",
+    "static/js/main.5ea1d327.js"
+  ]
+}
